@@ -1,0 +1,12 @@
+K:\C# Project\design\design\bin\Debug\design.exe.config
+K:\C# Project\design\design\bin\Debug\design.exe
+K:\C# Project\design\design\bin\Debug\design.pdb
+K:\C# Project\design\design\bin\Debug\Bunifu_UI_v1.5.3.dll
+K:\C# Project\design\design\obj\Debug\design.csprojAssemblyReference.cache
+K:\C# Project\design\design\obj\Debug\design.Form1.resources
+K:\C# Project\design\design\obj\Debug\design.Properties.Resources.resources
+K:\C# Project\design\design\obj\Debug\design.csproj.GenerateResource.cache
+K:\C# Project\design\design\obj\Debug\design.csproj.CopyComplete
+K:\C# Project\design\design\obj\Debug\design.exe
+K:\C# Project\design\design\obj\Debug\design.pdb
+K:\C# Project\design\design\bin\Debug\LollipoUi.dll
